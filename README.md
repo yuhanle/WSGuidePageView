@@ -46,5 +46,5 @@
 ###效果图：
 ![效果图](https://github.com/yuhanle/WSGuidePageView/blob/master/demo.gif)
 
-###如有疑问，请联系我！！!
+###如有疑问，请联系我！！！
 新浪微博:[@煜寒了](http://weibo.com/208484538/home?wvr=5)
