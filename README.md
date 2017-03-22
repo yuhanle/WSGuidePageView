@@ -1,13 +1,13 @@
 # WSGuidePageView
 这是一个实用在app启动时添加引导页的分享
 
-###功能：
+### 功能：
 
 1.滑动时背景色渐变效果
 
 2.自定义索引形式
 
-###配置：
+### 配置：
 - 初始化背景图和覆盖图
 ```
     // Added Introduction View Controller
@@ -45,5 +45,5 @@
     };
 ```
 
-###效果图：
+### 效果图：
 ![效果图](https://github.com/yuhanle/WSGuidePageView/blob/master/demo.gif)
